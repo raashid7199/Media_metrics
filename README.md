@@ -10,4 +10,6 @@ As a data analyst partnering with the product team, your core mandate is to cond
 Please find the related Medium article below:
 
 
-https://medium.com/@connect2_raashid199/insights-into-social-media-user-behavior-6aaad9b8e3d7
+
+
+https://medium.com/@raashidnarrates/insights-into-social-media-user-behavior-6aaad9b8e3d7
